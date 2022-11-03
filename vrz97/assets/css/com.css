@@ -334,3 +334,7 @@ tr {
       font-style: italic;
       text-shadow: #000000 0px 1px 0px;
     }
+
+.my-4 {
+    	font-size: 1.5rem;
+    }
